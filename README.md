@@ -14,17 +14,17 @@
 ### In order to analyze our data, we used the Python libraries and the tools, SQL, Pandas, and Seaborn. We used SQL for database queries, Pandas for cleaning and filtering, and Seaborn for our visuals. These methods helped us present our data in the best way possible. With the data analysis tools, we were able to seamlessly analyze the data for our project.
 
 ## Visuals
-![Best Genre Total Profit](images/Best_Genres_by_Total_Profit.png)
+![Best Genre Total Profit](image/Best_Genres_by_Total_Profit.png)
 
-![Increased Profit with higher Vote Counts Averages](images/Proof_average_vote_indicative_of_increased_profit1.png)
+![Increased Profit with higher Vote Counts Averages](image/Proof_average_vote_indicative_of_increased_profit1.png)
 
-![Looked into Adventure by Runtime for a recommendations](images/Adventure_by_runtime1.png)
+![Looked into Adventure by Runtime for a recommendations](image/Adventure_by_runtime1.png)
 
-![Looked into Adventure's Runtime by Average Vote to confirm this was a solid combination](images/Adventure_runtime_and_average_vote.png)
+![Looked into Adventure's Runtime by Average Vote to confirm this was a solid combination](image/Adventure_runtime_and_average_vote.png)
 
-![Which director has the Highest Grossing Adventure Movie?](images/Top Four Directors with Highest Grossing Adventure Movie.png)
+![Which director has the Highest Grossing Adventure Movie?](image/Top Four Directors with Highest Grossing Adventure Movie.png)
 
-![Which Production Company on Average has the Highest Grossing Adventure Movie?](images/Production_Company_Profit.png)
+![Which Production Company on Average has the Highest Grossing Adventure Movie?](image/Production_Company_Profit.png)
 
 ## Conclusion
 
