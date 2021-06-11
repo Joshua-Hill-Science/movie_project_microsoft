@@ -20,10 +20,10 @@
 
 ![Looked into Adventure by Runtime for a recommendations](images/Adventure_by_runtime1.png)
 
-![Looked into Adventure's Runtime by Average Vote to confirm this was a solid combination](Adventure_runtime_and_average_vote.png)
+![Looked into Adventure's Runtime by Average Vote to confirm this was a solid combination](images/Adventure_runtime_and_average_vote.png)
 
-![Which director has the Highest Grossing Adventure Movie?](Top Four Directors with Highest Grossing Adventure Movie.png)
+![Which director has the Highest Grossing Adventure Movie?](images/Top Four Directors with Highest Grossing Adventure Movie.png)
 
-![Which Production Company on Average has the Highest Grossing Adventure Movie?](Production_Company_Profit.png)
+![Which Production Company on Average has the Highest Grossing Adventure Movie?](images/Production_Company_Profit.png)
 
 ## Conclusion
