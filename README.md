@@ -14,8 +14,6 @@
 ### In order to analyze our data, we used the Python libraries and the tools, SQL, Pandas, and Seaborn. We used SQL for database queries, Pandas for cleaning and filtering, and Seaborn for our visuals. These methods helped us present our data in the best way possible. With the data analysis tools, we were able to seamlessly analyze the data for our project.
 
 ## Visuals
-![Mircosoft Revenue pulled from Statista.com](images/statistic_id267805_microsofts-global-revenue-2002-2020.pdf)
-
 ![Best Genre Total Profit](images/Best_Genres_by_Total_Profit.png)
 
 ![Increased Profit with higher Vote Counts Averages](images/Proof_average_vote_indicative_of_increased_profit1.png)
