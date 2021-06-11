@@ -18,9 +18,9 @@
 
 ![Best Genre Total Profit](images/Best_Genres_by_Total_Profit.png)
 
-![Increased Profit with higher Vote Counts Averages](Proof_average_vote_indicative_of_increased_profit1.png)
+![Increased Profit with higher Vote Counts Averages](images/Proof_average_vote_indicative_of_increased_profit1.png)
 
-![Looked into Adventure by Runtime for a recommendations](Adventure_by_runtime1.png)
+![Looked into Adventure by Runtime for a recommendations](images/Adventure_by_runtime1.png)
 
 ![Looked into Adventure's Runtime by Average Vote to confirm this was a solid combination](Adventure_runtime_and_average_vote.png)
 
